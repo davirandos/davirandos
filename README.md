@@ -21,4 +21,4 @@ Me considero um desenvolvedor organizado, comprometido, curioso e com muita vont
 Outras habilidades: Java, PostgreSQL, PHP e Python.
 
 Portifólio: [davittiw.vercel.app](https://davittiw.vercel.app/) <br>
-Linkedin: [https://www.linkedin.com/in/davttiw/](https://www.linkedin.com/in/davttiw/)
+Linkedin: [https://www.linkedin.com/in/davirandos/](https://www.linkedin.com/in/davirandos/)
