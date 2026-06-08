@@ -10,9 +10,9 @@ Me considero um desenvolvedor organizado, comprometido, curioso e com muita vont
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=508BBF&color=000" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=508BBF&color=000" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=508BBF&color=000" />
-<img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=508BBF&color=000" />
+<img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=508BCF&color=000" />
 <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=508BBF&color=000" />
-<img src="https://img.shields.io/badge/Cloud-339933?style=for-the-badge&logo=googlecloud&logoColor=508BBF&color=000" />
+<img src="https://img.shields.io/badge/Google Cloud-339933?style=for-the-badge&logo=googlecloud&logoColor=508BBF&color=000" />
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=508BBF&color=000" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=508BBF&color=000" />
 <img src="https://img.shields.io/badge/Bun-339933?style=for-the-badge&logo=bun&logoColor=508BBF&color=000" />
