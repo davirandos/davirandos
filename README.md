@@ -12,7 +12,6 @@ Me considero um desenvolvedor organizado, comprometido, curioso e com muita vont
   <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
   <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
   <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
-  <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
   <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
 </div>
 
