@@ -16,6 +16,3 @@ Me considero um desenvolvedor organizado, comprometido, curioso e com muita vont
 </div>
 
 <br>
-
-Portifólio: [davittiw.vercel.app](https://davittiw.vercel.app/) <br>
-Linkedin: [https://www.linkedin.com/in/davirandos/](https://www.linkedin.com/in/davirandos/)
