@@ -15,4 +15,10 @@ Me considero um desenvolvedor organizado, comprometido, curioso e com muita vont
   <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
 </div>
 
+<div>
+  <h3>Código & Música🎧</h3>
+  <a href="https://open.spotify.com/playlist/4VygoDgVNf3WPTEI0N9bVY?si=6b0f409f706a45fc&pt=c589c60c1c586af95ca987bbf3812718" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</div>
 <br>
