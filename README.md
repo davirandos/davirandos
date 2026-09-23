@@ -1,5 +1,5 @@
 ### Olá :)
-Meu nome é Luccas, um Desenvolvedor Full-Stack, construindo sistemas como freelancer e buscando uma oportunidade de estágio em desenvolvimento. Utilizo linguagens como Java com Spring Boot, além de frameworks como React e Next, sendo essas minhas especialidades. Ainda assim, tenho conhecimentos em Google Cloud Platform, Docker, MySQL e PostgreSQL, IA Generativa, LLMs e System Design.
+Meu nome é Luccas, um Desenvolvedor Full-Stack, construindo sistemas como freelancer e buscando uma oportunidade de estágio em desenvolvimento. Utilizo linguagens como Java com Spring Boot, além de React e Next, sendo essas minhas especialidades. Ainda assim, tenho conhecimentos em Google Cloud Platform, Docker, MySQL e PostgreSQL, IA Generativa, LLMs e System Design.
 
 Curso ADS na Fatec Rubens Lara, com formação técnica anterior em Desenvolvimento de Sistemas pela Etec de Praia Grande. Após a faculdade, pretendo seguir com uma pós-graduação em cibersegurança. Tenho grande interesse em fintechs, arquitetura backend e segurança cibernética. Gosto de entender a complexidade por trás de sistemas financeiros robustos, e essa é a área onde pretendo construir carreira.
 
